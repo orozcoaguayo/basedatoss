@@ -1,0 +1,10 @@
+C:\Users\orozc\source\repos\BaseDatos\BaseDatos\obj\Debug\BaseDatos.csproj.AssemblyReference.cache
+C:\Users\orozc\source\repos\BaseDatos\BaseDatos\obj\Debug\BaseDatos.Properties.Resources.resources
+C:\Users\orozc\source\repos\BaseDatos\BaseDatos\obj\Debug\BaseDatos.csproj.GenerateResource.cache
+C:\Users\orozc\source\repos\BaseDatos\BaseDatos\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\orozc\source\repos\BaseDatos\BaseDatos\bin\Debug\BaseDatos.exe.config
+C:\Users\orozc\source\repos\BaseDatos\BaseDatos\bin\Debug\BaseDatos.exe
+C:\Users\orozc\source\repos\BaseDatos\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\orozc\source\repos\BaseDatos\BaseDatos\obj\Debug\BaseDatos.exe
+C:\Users\orozc\source\repos\BaseDatos\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\Users\orozc\source\repos\BaseDatos\BaseDatos\obj\Debug\BaseDatos.exe.config
